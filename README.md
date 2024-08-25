@@ -1,19 +1,6 @@
-Project 1-2 Phase 1:
-----------------
-
 Project Description:
 --------------
-Developing a game engine (physics engine and GUI included) for putting.
-
-Authors:
---------
-Group 01: Marco Cattaneo Vittone, Marian Chen, Zhefan Cheng, Evgueny Nazarenko, Egor Sementul, Jason Somoglou, Drago Stoyanov
-
-Purpose of Project:
--------------------
-The objective of this project was to develop a GUI that accurately displayed the workings of a physics engine estimating the trajectory of a golf ball on a field with certain given inputs (i.e., height function, friction constants, etc.).
-
-The main focus of the research question from this project is to determine the most efficient (yet still accurate) interval for calculating the trajectory of the golf ball over a certain time interval.
+Developing a game engine (physics engine and GUI included) and an agent capable of play a mini-golf game.
 
 Version / Required Softwares:
 ----------------
